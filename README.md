@@ -1,1 +1,2 @@
 # Vehicle-detection-in-video-
+Developed a real-time Vehicle Detection System using Python, OpenCV, and Tkinter. The application detects, counts, and classifies vehicles from video streams with bounding boxes and labels. Designed a clean Tkinter GUI for uploading videos, play/pause controls, and displaying live detection output. Implemented frame-by-frame processing, object detection algorithms, and optimized performance for smooth real-time visualization.
